@@ -29,7 +29,7 @@ Team Members and Responsibilities
 - Team member 4 (Samina)
 - Team member 5 (Naveed)
   
-Team Lead
+Team Lead:
 Ismael
 
 Project Status
