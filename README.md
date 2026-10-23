@@ -25,7 +25,7 @@ Team Members and Responsibilities
 
 - Team member 1 (Alberto)
 - Ismael Guevara Regalado: Employee Class
-- Team member 3 (Pablo)
+- Pablo Mantanic: Scheduler Script
 - Team member 4 (Samina)
 - Team member 5 (Naveed)
   
