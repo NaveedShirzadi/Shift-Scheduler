@@ -30,8 +30,7 @@ Team Members and Responsibilities
 - Team member 5 (Naveed)
   
 Team Lead
-
-To be confirmed by the team.
+Ismael
 
 Project Status
 
