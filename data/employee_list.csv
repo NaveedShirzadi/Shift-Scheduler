@@ -1,0 +1,9 @@
+id,name,roles,available_start,available_end,max_hours
+1,Daniel,cook,09:00,17:00,8
+2,Ana,cook|cashier,11:00,19:00,8
+3,Ben,cashier,12:00,20:00,8
+4,Sofia,drive_thru|cashier,09:00,15:00,6
+5,Carlos,cook,13:00,21:00,8
+6,Emily,cashier|drive_thru,09:00,15:00,6
+7,Michael,cook|cashier,15:00,21:00,6
+8,Jessica,drive_thru|cashier,11:00,19:00,8
