@@ -23,7 +23,7 @@ Technologies
 
 Team Members and Responsibilities
 
-- Team member 1 (Alberto)
+- Alberto Gonzalez — Employee Input: CSV employee data, CSV reader, and employee validation
 - Ismael Guevara Regalado: Employee Class
 - Pablo Mantanic: Scheduler Script
 - Team member 4 (Samina)
