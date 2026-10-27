@@ -27,7 +27,7 @@ Team Members and Responsibilities
 - Ismael Guevara Regalado: Employee Class
 - Pablo Mantanic: Scheduler Script
 - Team member 4 (Samina)
-- Team member 5 (Naveed)
+- Naveed Shirzadi: Scheduler and Output Script
   
 Team Lead:
 Ismael
