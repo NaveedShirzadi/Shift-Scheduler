@@ -8,6 +8,9 @@ class Employee:
         self.open = open
         self.close = close
         self.max_hours = max_hours
+        self.blocks = []
+        self.breaks = []
+        self.waived = []
 
     def can_work_role(self, role):
         return role in self.roles
@@ -17,6 +20,13 @@ class Employee:
 
     def can_work_hours(self, hours):
         return 0 <= hours <= self.max_hours
+
+    def can_add_block(self, size):
+        currentShift = sum(block.close - block.open for block in self.blocks)
+        return currentShift + size <= self.max_hours
+
+    def get_working_hours(self):
+        return sum(block.close - block.open for block in self.blocks)
 
     def role_count(self):
         return len(self.roles)

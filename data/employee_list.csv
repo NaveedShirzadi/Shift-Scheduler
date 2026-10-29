@@ -7,3 +7,5 @@ id,name,roles,available_start,available_end,max_hours
 6,Emily,cashier|drive_thru,09:00,15:00,6
 7,Michael,cook|cashier,15:00,21:00,6
 8,Jessica,drive_thru|cashier,11:00,19:00,8
+9,Miguel,cashier,09:00,17:00,8
+10,John,cook,09:00,15:00,8
