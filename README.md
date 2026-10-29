@@ -26,7 +26,7 @@ Team Members and Responsibilities
 - Alberto Gonzalez — Employee Input: CSV employee data, CSV reader, and employee validation
 - Ismael Guevara Regalado: Employee Class
 - Pablo Mantanic: Scheduler Script
-- Team member 4 (Samina)
+- Samina Hossain Juthi: greedy scheduler and validation checking 
 - Naveed Shirzadi: Scheduler and Output Script
   
 Team Lead:
